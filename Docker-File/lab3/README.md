@@ -10,4 +10,11 @@ docker build -t app1 .
 ```bash
 docker run -d -p 8080:8080 --name container1 app1
 ```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/Docker-File/lab3/screenshots/dockerruncon.png?raw=true)
+
+### 3. Check Running Container
+```bash
+docker ps
+```
 ![Repository Cloned]()
+
