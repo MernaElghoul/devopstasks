@@ -26,10 +26,11 @@ mvn test
 ```bash
 mvn package
 ```
-![Repository Cloned]()
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab2/screenshots/build%20and%20run.png?raw=true)
 mvn package
 
 **run app**
 ```bash
 mvn package
-![Repository Cloned]()
+```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab2/screenshots/build%20and%20run.png?raw=true)
