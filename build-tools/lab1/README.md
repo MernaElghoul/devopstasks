@@ -4,15 +4,19 @@
 
 **Steps:**
 
-1️⃣ **Install Gradle**  
+1️⃣ **Install java**  
 ```bash
 cd /opt
 sudo wget https://services.gradle.org/distributions/gradle-8.5-bin.zip
 sudo unzip gradle-8.5-bin.zip
-![Repository Cloned]()
+```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/install%20java.png?raw=true)
+**Install gradle** 
+```bash
 sudo vi /etc/profile.d/gradle.sh
 export GRADLE_HOME=/opt/gradle-8.5
 export PATH=$PATH:$GRADLE_HOME/bin
 source /etc/profile.d/gradle.sh
 gradle -v
+![Repository Cloned]()
 
