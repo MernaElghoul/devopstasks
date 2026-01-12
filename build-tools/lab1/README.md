@@ -42,7 +42,8 @@ gradle build
 ```bash
 java -jar build/libs/ivolve-app.jar
 ```
-![Repository Cloned]()
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/run.png?raw=true)
+
 
 
 
