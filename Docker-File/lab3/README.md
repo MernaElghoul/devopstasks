@@ -27,4 +27,5 @@ http://localhost:8080
 docker stop container1
 docker rm container1
 ```
-![Repository Cloned]()
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/Docker-File/lab3/screenshots/stop%20and%20delete%20con.png?raw=true)
+
