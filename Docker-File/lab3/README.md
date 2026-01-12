@@ -4,5 +4,6 @@
 ### 1. Build Docker Image
 ```bash
 docker build -t app1 .
-
+```
+![Repository Cloned]()
 
