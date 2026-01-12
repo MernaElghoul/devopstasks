@@ -21,4 +21,10 @@ docker ps
 ```bash
 http://localhost:8080
 ```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/Docker-File/lab3/screenshots/dockerrun.png?raw=true)
+### 5. Stop and Remove Container
+```bash
+docker stop container1
+docker rm container1
+```
 ![Repository Cloned]()
