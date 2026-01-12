@@ -27,17 +27,24 @@ cd build1
 ```
 ![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/clone%20app.png?raw=true)
 
-**gradle test**
+**test app**
 ```bash
 gradle test
 ```
 ![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/test.png?raw=true)
 
-**gradle build**
+**build app**
 ```bash
 gradle build
 ```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/build%20app.png?raw=true)
+**run app**
+```bash
+java -jar build/libs/ivolve-app.jar
+```
 ![Repository Cloned]()
+
+
 
 
 
