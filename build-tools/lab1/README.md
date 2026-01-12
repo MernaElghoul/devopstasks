@@ -24,4 +24,10 @@ gradle -v
 ```bash
 git clone https://github.com/Ibrahim-Adel15/build1.git
 cd build1
+```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/clone%20app.png?raw=true)
+**gradle test**
+```
 ![Repository Cloned]()
+
+
