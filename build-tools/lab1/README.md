@@ -18,5 +18,10 @@ export GRADLE_HOME=/opt/gradle-8.5
 export PATH=$PATH:$GRADLE_HOME/bin
 source /etc/profile.d/gradle.sh
 gradle -v
-![Repository Cloned]()
+```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/install%20gradle.png?raw=true)
+**clone**
+```bash
+git clone https://github.com/Ibrahim-Adel15/build1.git
+cd build1
 
