@@ -16,5 +16,9 @@ docker run -d -p 8080:8080 --name container1 app1
 ```bash
 docker ps
 ```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/Docker-File/lab3/screenshots/dockerruncon.png?raw=true)
+### 4. Test the Application
+```bash
+http://localhost:8080
+```
 ![Repository Cloned]()
-
