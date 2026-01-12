@@ -7,3 +7,11 @@
    sudo apt update
    sudo apt install maven -y
    mvn -v
+   ```
+   ![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab2/screenshots/maven%20install.png?raw=true)
+**clone**
+```bash
+git clone https://github.com/Ibrahim-Adel15/build2.git
+cd build2
+```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab2/screenshots/maven%20install.png?raw=true)
