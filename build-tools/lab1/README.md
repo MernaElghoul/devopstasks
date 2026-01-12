@@ -26,8 +26,18 @@ git clone https://github.com/Ibrahim-Adel15/build1.git
 cd build1
 ```
 ![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/clone%20app.png?raw=true)
+
 **gradle test**
+```bash
+gradle test
+```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab1/screenshots/test.png?raw=true)
+
+**gradle build**
+```bash
+gradle build
 ```
 ![Repository Cloned]()
+
 
 
