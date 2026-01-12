@@ -20,4 +20,9 @@ cd build2
 ```bash
 mvn test
 ```
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/build-tools/lab2/screenshots/testapp.png?raw=true)
+
+**build app**
+```bash
+mvn package
 ![Repository Cloned]()
