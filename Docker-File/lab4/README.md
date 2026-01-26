@@ -18,7 +18,7 @@ git clone https://github.com/Ibrahim-Adel15/Docker-1.git
 cd Docker-1
 ls
 ```
-![Repository Cloned]()
+![Repository Cloned](https://github.com/MernaElghoul/devopstasks/blob/main/Docker-File/lab4/screenshots/clone%20the%20app.png?raw=true)
 ### Step 2: Build the Application
 ```bash
 mvn clean package
